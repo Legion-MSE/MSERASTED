@@ -9,9 +9,9 @@ apt-get install python3
 apt-get install python3-pip
 pip3 install shodan
 pip3 install colorama
-git clone https://github.com/SerLink04/LinkScanner
-cd LinkScanner
-python3 LinkScanner.py
+git clone https://github.com/Legion-MSE/MSERASTED.git
+cd MSERASTED
+python3 MSERASTED.py
 ```
 ## 🪐➜ Opciones
 Las opciones dentro de la tool
