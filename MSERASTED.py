@@ -10,7 +10,7 @@ import ctypes
 from datetime import datetime
 import re
 
-# Coded by SerLink04 (discord.gg/comunidad)
+
 
 name_cmd = "MSERASTED |  | Coded by saporeal"
 
